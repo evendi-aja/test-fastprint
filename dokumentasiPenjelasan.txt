@@ -1,0 +1,10 @@
+1. jalankan api data dengan postmane, username dan pasword sudah disediakan. username berubah-ubah, sedang password "bisacoding-tglsekarang-bulan-2 angka terakhir tahun"
+2. Buat controller dengan nama Produk.php.
+3. untuk menampilkan data sesuai perintah pangil model dengan nama getAllProdukKondisi (produk dengan status bisa dijual)
+4. buat file view dengan nama index.php pada folder produk
+5. buat file model dengan nama Produk_model.php dan function untuk memanggil data adalah getAllProdukKondisi
+6. Untuk hapus data, file view ada pada folder produk/tambah. Untuk controller ada pada file Produk.php function tambah. Untuk model ada pada file Produk_model.php function tambahDataProduk
+7. Untuk perintah hapus ada pada controller Produk.php function hapus, dan model Produk_model.php dengan function hapusDataProduk
+8. untuk perintah edit file view ada pada folder views/produk/ubah.php. Untuk controller ada pada file Produk.php function ubah. Untuk model ada pada file Produk_model.php function ubahDataProduk.
+
+Maaf menjelaskan hanya lewat file .txt bukan video.
